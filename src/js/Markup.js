@@ -2,7 +2,7 @@ class Markup {
   constructor(photos) {
     this.photos = photos;
     this.clusters = {};
-    this.base = 'https://phaa-saa-thai-nuang.s3.eu-central-1.amazonaws.com/';
+    this.base = 'https://phaa-saa-thai-soong.s3.ap-northeast-1.amazonaws.com/';
     this.prepare();
 
   }
