@@ -3,7 +3,7 @@ First run:
 2. npm i
 
 upload files
-aws s3 cp /Users/evnomad/Yandex.Disk.localized/Library/Тайский/thai-lessons2/8-03 s3://phaa-saa-thai-soong --recursive
+aws s3 cp /Users/evnomad/Yandex.Disk.localized/Library/Тайский/thai-lessons2/8-15 s3://phaa-saa-thai-soong --recursive
 
 Development:
 npm start
