@@ -1,6 +1,8 @@
 class Markup {
-  constructor(photos) {
+  constructor(photos, words) {
     this.photos = photos;
+    this.words = words;
+
     this.clusters = {};
     this.base = 'https://phaa-saa-thai-soong.s3.ap-northeast-1.amazonaws.com/';
     this.prepare();
@@ -34,6 +36,16 @@ class Markup {
                   <canvas class="progressive-canvas"></canvas>
                 </a>`;
       })
+
+      // add words
+      if (typeof this.words[date] !== 'undefined') {
+        html += '<h3>Words</h3>';
+        html += '<ul class="words">';
+        this.words[date].forEach(line => {
+          html += `<li>${line}</li>`;
+        });
+        html += '</ul>';
+      }
 
       html += '</div>';
     }

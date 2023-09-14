@@ -6,6 +6,7 @@ window.$ = $;
 import { Fancybox } from "@fancyapps/ui";
 import Markup from './js/Markup';
 import photos from './js/photos.json';
+import words from './js/words.json';
 
 import "@fancyapps/ui/dist/fancybox/fancybox.css";
 import './scss/main.scss';
@@ -15,7 +16,7 @@ import './js/assets';
 
   window.addEventListener('DOMContentLoaded', () => {
 
-    const m = new Markup(photos);
+    const m = new Markup(photos, words);
     m.draw();
 
     Fancybox.bind("[data-fancybox]", {});
