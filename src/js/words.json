@@ -99,5 +99,37 @@
     "พอถึง [place] = when you arrived to [place]",
     "ตึก = building"
   ],
-  "2023-09-28": []
+  "2023-09-28": [
+    "โจรสลัด = pirate",
+    "แล้วแต่คุณ = up to you",
+    "แล้วแต่ = depends on",
+    "ลาออก = resign",
+    "เกษียณ = retired",
+    "ข้อความ = message",
+    "แคนตาลูป = cantaloupe (дыня)",
+    "ช่างมันเถอะ = forget it (nevermind)",
+    "ขนมปัง = bread",
+    "ดอกไม้ = flower",
+    "วัตถุดิบ = ingredients",
+    "วัตถุดิบ = ingredients",
+    "ปู = crab",
+    "หมู = pork",
+    "กุ้ง = shrimp",
+    "เป็ด = duck",
+    "ปลาหมึก = squid",
+    "วิธีทำ = the way to cook",
+    "ทอด = deep fried",
+    "ผ้ด = stir fried",
+    "ย่าง = roasted / grill",
+    "อบ = bake / roast",
+    "นึ่ง = to steam",
+    "แกง = curry",
+    "เครื่องปรุง = seasoning / spices",
+    "น้ำปลา = fish sauce",
+    "น้ำผึ้ง = honey",
+    "มะนาว = lemon",
+    "กระเทียม = garlic",
+    "เนย = butter",
+    "พริกไทย = pepper"
+  ]
 }
