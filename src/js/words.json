@@ -85,5 +85,19 @@
     "ม้าลาย = zebra",
     "ข้ามเส้น = to cross the line",
     "[place] ไปทางไหน = [place] go which way?"
-  ]
+  ],
+  "2023-09-26": [
+    "รถไฟ = train",
+    "ทางรถไฟ = train way",
+    "เจอ [smth] = when arrive to [smth]",
+    "เมื่อถึง = when arrive",
+    "ผับ + [name] = pub + [name]",
+    "แถวนี้ = this area",
+    "อยู่หน้า = in front of",
+    "ฟังไม่ทัน = I don’t follow you (in terms of understanding)",
+    "ฟังทันไหม = do you understand?",
+    "พอถึง [place] = when you arrived to [place]",
+    "ตึก = building"
+  ],
+  "2023-09-28": []
 }
