@@ -37,10 +37,10 @@
   margin-left: -12px;
 
   li {
-    font-size: rem(20px);
+    font-size: rem(24px);
 
     @media screen and (max-width:568px) {
-      font-size: rem(14px);
+      font-size: rem(15px);
     }
   }
 }
